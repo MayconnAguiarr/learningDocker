@@ -1,11 +1,14 @@
 # learningDocker
 
-    DOCKERFILE - É um documento de texto que contém todos os comandos que um usuário utiliza em um terminal para montar uma imagem.
+    DOCKERFILE - É um documento de texto que contém todos os comandos que um usuário utiliza<br> 
+    em um terminal para montar uma imagem.
 
-    DOCKER-COMPOSER - É uma ferramenta para a criação e execução de múltiplos containers de aplicação. Com o Compose, você usar um arquivo do tipo yaml para definir como será o ambiente de sua aplicação e usando um único comando você criará e iniciará todos os serviços definidos.
+    DOCKER-COMPOSER - É uma ferramenta para a criação e execução de múltiplos containers de aplicação.<br>
+    Com o Compose, você usar um arquivo do tipo yaml para definir como será o ambiente de sua aplicação e <br>
+    usando um único comando você criará e iniciará todos os serviços definidos.
 
 ## Objetivo
-    Criar sistemas operacionais configurados utilizando DockerFile e DockerComposer.
+    Criar containers configurados usando DockerFile e DockerComposer.
 
 ## Instalação Docker (Linux)    
     1. sudo apt-get update
