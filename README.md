@@ -19,14 +19,14 @@
     3. Execute os seguintes comandos:	
        - docker build -t ubuntu/apache2 .
        - docker run -d -p 8080:80 ubuntu/apache2
-    4. Acessar IP/docker.html
+    4. Acessar o IP/docker.html
 
 ## Como testar Docker-Composer ?
     1. Clone o repositório
     2. Acesse a pasta clonada e logo em seguida a pasta DockerComposer
     3. Execute os seguinte comando:
        - docker-compose up		
-    4. Acessar IP
+    4. Acessar o IP do serviço
 	
 ## Alguns comandos
     docker ps - Lista os containers em execução.
